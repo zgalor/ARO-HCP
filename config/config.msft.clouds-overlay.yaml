@@ -8,7 +8,7 @@ clouds:
           # Cluster Service
           clustersService:
             image:
-              digest: sha256:8b2e9af554ad3422f5c30830e383eddffdeac37f64677359d6913f53a4a2abfb
+              digest: sha256:e1c7fbb81e8360719a567123a7526aebfb7caa60f183b1920982337f4e08c15b
           # ACR Pull
           acrPull:
             image:
@@ -75,7 +75,7 @@ clouds:
           # Cluster Service
           clustersService:
             image:
-              digest: sha256:8b2e9af554ad3422f5c30830e383eddffdeac37f64677359d6913f53a4a2abfb
+              digest: sha256:e1c7fbb81e8360719a567123a7526aebfb7caa60f183b1920982337f4e08c15b
           # ACR Pull
           acrPull:
             image:
@@ -142,7 +142,7 @@ clouds:
           # Cluster Service
           clustersService:
             image:
-              digest: sha256:8b2e9af554ad3422f5c30830e383eddffdeac37f64677359d6913f53a4a2abfb
+              digest: sha256:e1c7fbb81e8360719a567123a7526aebfb7caa60f183b1920982337f4e08c15b
           # ACR Pull
           acrPull:
             image:
